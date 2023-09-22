@@ -1,0 +1,6 @@
+package com.ervalsa.papb_praktikum
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
